@@ -1,0 +1,1 @@
+<p>node_modules/.bin/babel src --presets react --out-dir static</p>
